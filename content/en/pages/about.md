@@ -1,6 +1,6 @@
 ---
 title: About
-description: 'Hugo, the world''s fastest framework for building websites'
+description: 'whoami'
 author: Elma
 toc: false
 ---
