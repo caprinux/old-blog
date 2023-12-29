@@ -44,6 +44,11 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
     pageRef="about"
     name = 'About'
     url = '/about/'
+    weight = 40
+  [[Languages.en-gb.menu.main]]
+    pageRef="pwn"
+    name = 'Pwn'
+    url = '/pwn/'
     weight = 30
 
 [Languages.en-gb.params]
