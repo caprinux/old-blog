@@ -2,7 +2,7 @@
 title: Return To Libc - Concept
 date: 0005-01-01T00:00:07Z
 draft: false
-description: nil
+description: Pwn for Fun and Profit is a progressive tutorial series that aims to be noob-friendly enough for anyone to dive in, and equip them with the skills to come out with substantial knowledge on The Art of Pwn.
 toc: false
 ---
 
