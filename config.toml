@@ -1,5 +1,5 @@
 title = "a rant of my adventures"
-baseURL = "https://blog.caprinux.com"
+baseURL = "https://archive.elmo.sg"
 theme = "hugo-blog-awesome"
 disqusShortname = "caprinux"
 
